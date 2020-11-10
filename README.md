@@ -25,9 +25,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [TODO](#todo)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [TODO](#todo)
 
 ## 🧐 About <a name = "about"></a>
 
