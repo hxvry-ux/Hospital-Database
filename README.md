@@ -7,11 +7,11 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/hxvry-ux/Hospital-Database.svg)](https://github.com/hxvry-ux/Hospital-Database/issues)
-[![Commits](https://img.shields.io/github/commits/micromatch/micromatch/hxvry-ux/Hospital-Database.svg)](https://github.com/hxvry-ux/Hospital-Database/commits)
+
 <a href="https://github.com/hxvry-ux/Hospital-Database/commits">
 <img src = "https://flat.badgen.net/github/commits/hxvry-ux/Hospital-Database/main?cache=300"/></a>
+<a href="https://github.com/hxvry-ux/Hospital-Database/graphs/contributors">
+<img src = "https://flat.badgen.net/github/contributors/hxvry-ux/Hospital-Database?cache=300"/></a>
 
 </div>
 
