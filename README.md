@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Hello! My name is Henry Ouellette, and I am an Information Science major at SUNY Oswego. This repository will feature the files needed to create a relational database for a class called ISC329. I am working with my good friend Lou Estevez on this project.
+Hello! My name is Henry Ouellette, and I am joined by Lou Estevez for this project. What is this project? It's a database implementation for a class we take together. You'll find everything here that we used to make this database work.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
