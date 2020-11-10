@@ -24,11 +24,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [TODO](#todo)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -57,6 +54,9 @@ mySQL Workbench
 - [@hxvry-ux](https://github.com/hxvry-ux)
 - [Lou](https://google.com/)
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## ✔️ TO-DO <a name = "todo"></a>
 
-- Hat tip to anyone whose code was used
+- Implement Schema
+- Implement Relations
+- Populate Database with dummy data
+- Test Queries
