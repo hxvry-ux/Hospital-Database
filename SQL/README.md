@@ -11,5 +11,5 @@ Here you will find the mySQL database project file.
 
 ## Contributors <a name = "contributors"></a>
 
-- [@hxvry-ux](Henry Ouellette)
-- [Lou](#)
+- [@hxvry-ux](https://github.com/hxvry-ux)
+- [@Lou](#)
